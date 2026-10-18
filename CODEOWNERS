@@ -1,0 +1,14 @@
+# FrankX (FrankX-AI) — Organization Default CODEOWNERS
+# Website: https://frankx.ai
+# Brand ID: frankx | Governance Mode: active
+# Steward Agent: steward-frankx
+# Executive Seat: CEO (Founder Office) + CMO (Editorial & Authority)
+# Universal IS: Brand IS,Creator IS,Business IS,Code IS
+# Council Lead: starlight-prime,starlight-weaver,starlight-social-strategist
+# Primary Harnesses: Claude Code, Codex, Antigravity, Grok
+#
+# Human approval gate (Maker != Checker invariant):
+* @frankxai
+/.github/ @frankxai
+/AGENTS.md @frankxai
+/SECURITY.md @frankxai
